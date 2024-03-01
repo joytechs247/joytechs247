@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=joytechs247&theme=juicyfresh&column=5&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=joytechs247&theme=juicyfresh&column=5&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
   <br>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joytechs247&radius=16&theme=arctic&area=true&order=5" height="180" alt="activity-graph graph"  />
